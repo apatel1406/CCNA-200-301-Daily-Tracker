@@ -7,4 +7,6 @@
     - Firewalls
     - Server
     - Client
-    
+  - Lab
+    - Installed and learned the basics of Cisco Packet Tracer
+    - Putting devices and making a network    
