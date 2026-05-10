@@ -2,11 +2,16 @@
 
 - 5/8/26
   - Networking Devices
-    - Routers
-    - Switch
-    - Firewalls
-    - Server
-    - Client
+    - Nodes 
+      - Routers
+      - Switch
+      - Firewalls
+        - Network-Based
+        - Host-Based 
+      - Server
+      - Client
+    - LAN
+    - 
   - Lab
     - Installed and learned the basics of Cisco Packet Tracer
     - Putting devices and making a network    
