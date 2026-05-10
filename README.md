@@ -15,3 +15,21 @@
   - Lab
     - Installed and learned the basics of Cisco Packet Tracer
     - Putting devices and making a network    
+- 5/9/26
+  - Interfaces & Cables
+    - RJ = Registered Port
+    - Ethernet
+    - Ethernet Standards 
+    - Bits & Bytes
+    - T = Twisted Pair
+    - UTP
+    - Straight-Through Cable
+    - Crossover Cable
+    - AutoMDI-X
+    - Fiber Optic
+      - Multimode Fiber
+      - Single-Mode Fiber
+    - SFP Transceiver
+  - Lab
+    - Learned different cable types in CPT
+    - Configured network using Straight-Through Cables, Crossover Cables, and both types of Ethernet cables. 
