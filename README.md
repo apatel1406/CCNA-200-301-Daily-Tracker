@@ -33,3 +33,17 @@
   - Lab
     - Learned different cable types in CPT
     - Configured network using Straight-Through Cables, Crossover Cables, and both types of Ethernet cables. 
+### 5/11/26
+  - TCP/IP Model
+    - Protocol
+    - ARPA
+    - TCP
+    - IP
+    - IEEE
+    - IETF
+    - Physical Layer
+    - Local Network Layer
+    - Internet Layer
+    - Transport Layer
+    - Application Layer
+  - Lab
