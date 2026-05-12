@@ -46,4 +46,12 @@
     - Internet Layer
     - Transport Layer
     - Application Layer
+    - Encapsulation & Decapsulation
+    - Protocol Data Unit
+    - PDU
+    - Payloud
+    - Abjacent Layer Interaction
+    - Same Layer Interaction
+    - Separation of Layers
   - Lab
+    - Messed around with the TCP/OSI models at work in Packet Tracer
