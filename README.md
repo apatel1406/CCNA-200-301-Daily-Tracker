@@ -55,3 +55,24 @@
     - Separation of Layers
   - Lab
     - Messed around with the TCP/OSI models at work in Packet Tracer
+### 5/12/26
+  - Intro to Cisco CLI
+    - CLI
+    - GUI
+    - Rollover Cable
+    - Putty.org
+    - Default Serial Connections
+    - User EXEC mode >
+    - Privileged EXEC Mode #
+    - ?
+    - Global Configuration Mode
+    - Enable Password
+    - Running-config
+    - Startup-config
+    - Saving the configuration
+    - write
+    - write memory
+    - copy running-config startup-config
+    - Service password-encryption
+    - Enable secret
+    - Cancelling commands
