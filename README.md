@@ -76,3 +76,31 @@
     - Service password-encryption
     - Enable secret
     - Cancelling commands
+### 5/13/26
+  - Ethernet LAN Switching Part 1
+    - Physical Layer
+    - Data Layer
+    - Ethernet Frame
+    - Preamble
+    - STD
+    - Destination/Source
+    - Type/Length
+    - Byte sizes for all
+    - FCS
+    - MAC Address
+    - Decimal
+    - HexaDecimal
+    - Unicast
+    - Dynamically Learned
+    - Unknown Unicast Frame
+    - Flood
+    - Known Unicast Frame
+### 5/14/26
+  - Ethernet LAN Switching Part 2
+    - ARP
+    - View ARP table
+      - arp -a
+    - Ping or ICMP
+    - MAC address Table
+      - show mac address-table
+    - Ethernet frame in Wireshark
