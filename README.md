@@ -104,3 +104,17 @@
     - MAC address Table
       - show mac address-table
     - Ethernet frame in Wireshark
+### 5/15/26
+  - IPv4 Addressing
+    - Network layer
+    - Router
+    - IPv4
+    - Binary
+      - Base 2
+    - /24
+    - /16
+    - /8
+    - Classes
+    - Why not 127?
+      - Loopback Address
+    - Netmask
